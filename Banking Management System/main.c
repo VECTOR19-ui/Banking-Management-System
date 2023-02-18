@@ -1,4 +1,3 @@
-//Use dynamic memory allocation to utilize memory properly:
 //Use structure or union for some variables:
 //Reprogram most code blocks with do while to allow the user to try again for wrong input:
 //Debug the withdraw formula:
@@ -51,7 +50,7 @@ int main(){
     //Welcoming the user:
     printf("\n____________________________________________________________________________________________________\n");
     printf("\n\t\t\t\tWELCOME TO ZEX BANK\n");
-    printf("\n\t\t•••••Choose your service below•••••\n");
+    printf("\n\t\tâ€¢â€¢â€¢â€¢â€¢Choose your service belowâ€¢â€¢â€¢â€¢â€¢\n");
       Back:
       printf("\n\t\t\t1,Open a new account\n");
     printf("\n\t\t\t2,Opem an existing account\n");
