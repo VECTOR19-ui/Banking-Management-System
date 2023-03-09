@@ -1,8 +1,6 @@
 //Use structure or union for some variables:
 //Reprogram most code blocks with do while to allow the user to try again for wrong input:
 //Debug the withdraw formula:
-//Allow to put the full name with spaces & birthday with dd/mm/yy form & allow to input city with full form:
-//link the birthdate and age variables if the age and birth year goes equal:
 //update check case to display user information more than the balance:
 //|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\\
 //Banking managment system:
