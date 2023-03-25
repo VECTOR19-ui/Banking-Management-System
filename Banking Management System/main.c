@@ -1,5 +1,4 @@
-//Use structure or union for some variables:
-//Reprogram most code blocks with do while to allow the user to try again for wrong input:
+//Use structure or union for some variables:
 //Debug the withdraw formula:
 //update check case to display user information more than the balance:
 //|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\\
