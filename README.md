@@ -1,2 +1,2 @@
 # Banking-Management-System
-This is upgraded project as console application
+This is my first project banking management system as a console application
