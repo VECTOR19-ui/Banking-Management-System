@@ -1,5 +1,4 @@
-//Use structure or union for some variables:
-//Debug the withdraw formula:
+//Use structure or union for some variables:
 //update check case to display user information more than the balance:
 //|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\\
 //Banking managment system:
